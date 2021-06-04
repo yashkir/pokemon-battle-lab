@@ -1,0 +1,10 @@
+.Battle {
+  text-align: center;
+}
+
+.Battle-cards {
+  margin: 1em auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}

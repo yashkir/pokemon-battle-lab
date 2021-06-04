@@ -1,0 +1,8 @@
+.Messages {
+  border-radius: 1em;
+  background-color: palegoldenrod;
+  padding: 1em;
+  margin: 2em;
+  text-align: left;
+  list-style-type: none;
+}

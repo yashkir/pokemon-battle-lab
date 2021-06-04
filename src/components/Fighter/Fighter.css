@@ -1,0 +1,17 @@
+.Fighter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em;
+}
+
+.Fighter img {
+  object-fit: cover;
+  background-color: navy;
+  border-radius: 20px;
+}
+
+.Fighter button {
+  margin: 2px;
+  width: 50%;
+}
